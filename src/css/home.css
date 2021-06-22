@@ -1,0 +1,53 @@
+.section-title{
+    background-color: #2f4f4f57;
+    border-style: solid;
+    border-width: 0 0 2px;
+    border-color: black;
+    width: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.articles-container{
+    background: #000;
+    background-color: rgba(128, 128, 128, 0.2);
+    border-style: solid;
+    border-width: 0 2px 2px 2px;
+    border-color: black;
+    margin-top: 5px;
+}
+
+.article-preview{
+    margin-left: 10px;
+    width: 1290px;
+    background-color: #2f4f4f2d;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: black;
+}
+
+.article-row{
+    align-items: center;
+    text-align: left;
+    background-color: #2f4f4f3f;
+}
+
+.article-preview-title{
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: -2px;
+}
+
+.link-icon{
+    margin-bottom: 3px;
+}
+
+.full-post{
+    color:black;
+    text-align: right;
+}
+
+.full-post:hover{
+    color:gray;
+}
+

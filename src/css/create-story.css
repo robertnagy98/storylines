@@ -1,0 +1,44 @@
+.title-style{
+    height: 80px;
+    font-size: 70px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 90%;
+    background-color: #2f4f4f57;
+    border-width: 0px 0px 2px 0px;
+    border-color: black;
+}
+
+.title-style:focus{
+    outline-width: 0;
+    border-width: 0 0 2px 0;
+}
+
+.paragraph-style{
+    font-size: large;
+    margin-left: 50px;
+    height: 100%;
+    width: 90%;
+    background-color: #2c4b4b59;
+    display: block;
+    overflow: hidden;
+    resize: both;
+}
+
+.save-colum{
+    text-align: center;
+}
+
+.responsMenuBtn:focus
+{
+    box-shadow: none;
+
+}
+.dropdown-toggle::after {
+    display:none;
+}
+
+.text-area{
+    background-color: #2f4f4f57;
+    font-size: 25px;
+}

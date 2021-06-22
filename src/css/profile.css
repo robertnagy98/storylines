@@ -1,0 +1,74 @@
+.add-profile-img
+{
+    background-color:#2f4f4fa4;
+    outline: 1px solid black;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.profile-about
+{
+    margin-top:20px;
+    width: 700px;
+    border-width: 0 0 2px 0;
+    border-style: solid;
+}
+.profile-about-div
+{
+    margin-left: 30px;
+    padding-left: 45px;
+    width: 60%;
+}
+
+.profile-articles
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.profile-info
+{
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    margin-left: 20px;
+}
+
+.name-row{
+    margin-top: 20px;
+}
+
+.type-row {
+    margin-top: 5px;
+}
+
+.article-preview-prof{
+    margin-left: 10px;
+    background-color: #2f4f4f2d;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: black;
+}
+
+.edit-profile-btn{
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.edit-profile-btn:hover{
+    font-size: 20px;
+}
+
+.edit-box{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 10px;
+}
+
+.edit-input{
+    margin-bottom: 10px;
+}

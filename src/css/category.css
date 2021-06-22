@@ -1,0 +1,9 @@
+.article-div
+{
+    margin-left:250px;
+    width: 1000px;
+    background-color: rgba(128, 128, 128, 0.068);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: black;
+}

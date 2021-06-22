@@ -1,0 +1,63 @@
+.login-container
+{
+    border-style: solid;
+    border-width: 3px;
+    background-color: rgba(45, 196, 31, 0.2);
+    width: 80%;
+}
+.login-input
+{
+    margin-top: 10px;
+    width: 400px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: black;
+    background-color: rgba(248, 246, 246, 0.3);
+    color: black;
+}
+
+.login-input-small
+{
+    margin-top: 10px;
+    width: 250px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: black;
+    background-color: rgba(248, 246, 246, 0.3);
+    color: black;
+}
+.login-button
+{
+    font-weight: bold;
+    margin-top: 20px;
+    width: 400px;
+    background-color: rgb(35, 221, 35);
+}
+.signup-link
+{
+    font-weight: bold;
+    margin-top: 20px;
+    width: 400px;
+    background-color: rgb(46, 74, 235);
+}
+
+.signup-button
+{
+    font-weight: bold;
+    margin-top: 20px;
+    width: 400px;
+    background-color: rgb(46, 74, 235);
+}
+
+.type-section
+{
+    border-style: solid;
+    border-width: 3px 0 0 0;
+    margin-top: 10px;
+}
+
+.end-type-section{
+    border-style: solid;
+    border-width: 0 0 3px 0;
+    margin-top: 10px;
+}

@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(250, 215, 173, 0.753);
+}
+
+.page-borders{
+    border-style: solid;
+    border-color: black;
+    border-width: 0px 4px 4px 4px;
+    background-color: #2f4f4f31;
+}
+
+.nav-link{
+    color:white;
+}
+
+.nav-link:hover{
+    color:gray;
+}
+
+.link-style-light{
+    color:white;
+}
+
+.link-style-light:hover{
+    color:gray;
+}
+
+.link-style{
+    color:black;
+    font-weight:bolder;
+}
+
+.link-style:hover{
+    color:gray;
+}
+
+.login-row{
+    text-align: right;
+}
+
+.search{
+    margin-left: 600px;
+}
+
+.logout-button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.logout-button:hover{
+    font-size: 20px;
+}
